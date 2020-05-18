@@ -1,0 +1,10 @@
+C:\Users\Дилара\Downloads\C-Labs-master\lab6\PhilCalc\obj\Debug\PhilCalc.csprojResolveAssemblyReference.cache
+C:\Users\Дилара\Downloads\C-Labs-master\lab6\PhilCalc\obj\Debug\PhilCalc.Properties.Resources.resources
+C:\Users\Дилара\Downloads\C-Labs-master\lab6\PhilCalc\obj\Debug\PhilCalc.csproj.GenerateResource.Cache
+C:\Users\Дилара\Downloads\C-Labs-master\lab6\PhilCalc\obj\Debug\PhilCalc.csproj.CoreCompileInputs.cache
+C:\Users\Дилара\Downloads\C-Labs-master\lab6\PhilCalc\obj\Debug\PhilCalc.exe
+C:\Users\Дилара\Downloads\C-Labs-master\lab6\PhilCalc\obj\Debug\PhilCalc.pdb
+C:\Users\Дилара\Downloads\C-Labs-master\lab6\PhilCalc\bin\Debug\PhilCalc.exe.config
+C:\Users\Дилара\Downloads\C-Labs-master\lab6\PhilCalc\bin\Debug\PhilCalc.exe
+C:\Users\Дилара\Downloads\C-Labs-master\lab6\PhilCalc\bin\Debug\PhilCalc.pdb
+C:\Users\Дилара\Downloads\C-Labs-master\lab6\PhilCalc\obj\Debug\PhilCalc.PhilCalculator.resources
